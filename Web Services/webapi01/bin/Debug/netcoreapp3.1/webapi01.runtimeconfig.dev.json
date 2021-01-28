@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\nahia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\nahia\\.nuget\\packages"
+    ]
+  }
+}
